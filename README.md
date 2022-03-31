@@ -24,7 +24,7 @@
 
 ### You must install the following for this app to function:
 
-### Use git clone to clone it to yopur local machine
+### Use git clone to clone it to your local machine
 
 ## Usage:
 
