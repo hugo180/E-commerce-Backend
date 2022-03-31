@@ -1,6 +1,5 @@
 # E-commerce-Backend
-### Using Express.js and Mysql the user will be able to connect to a data
- base using  Sequelize,using insomnia API GET routes  the user will be able to display the d
+### Using Express.js and Mysql the user will be able to connect to a database using  Sequelize,using insomnia API GET routes  the user will be able to display the d
 ata for categories, products or tags.
 
 
